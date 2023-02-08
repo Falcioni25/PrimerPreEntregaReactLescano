@@ -1,0 +1,28 @@
+.contenedor{
+    display: flex;
+    background-color:darkgray;
+    justify-content: space-around;
+}
+.contenedor nav a{
+    color: aliceblue;
+    margin-right: 15px;
+    text-decoration: none;
+    
+}
+.contenedor nav a:hover{
+    color:darkorchid
+}
+img{
+    width: 200px;
+    background-color:darkgray;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    gap:20px;
+}
+li a{
+    text-decoration: none;
+    color:
+}
